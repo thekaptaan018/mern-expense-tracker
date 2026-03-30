@@ -141,6 +141,35 @@ DELETE /api/expenses/:id
 
 ---
 
+## 📸 Screenshots
+
+### Sign In Page
+![Sign In](./screenshots/signIn.png)
+
+### Sign Up Page
+![Sign Up](./screenshots/signup.png)
+
+### Home Page
+![Home Page](./screenshots/homePage.png)
+
+### Add New Expense
+![New Expense](./screenshots/newExpense.png)
+
+### Expense List
+![Expense List](./screenshots/expenseList.png)
+
+### Filter Expense
+![Filter Expense](./screenshots/filterExpense.png)
+
+### Update Expense
+![Update Expense](./screenshots/updateExpense.png)
+
+### Cleared Expenses
+![Cleared Expense](./screenshots/clearedExpense.png)
+
+
+---
+
 ## 👨‍💻 Author
 
 **Mayank Chaudhary**
